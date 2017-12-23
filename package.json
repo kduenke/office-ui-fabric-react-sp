@@ -1,0 +1,23 @@
+{
+  "name": "office-ui-fabric-react-sp",
+  "version": "1.0.0",
+  "description": "React components for building experiences for Office and Office 365 in SharePoint Online.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kduenke/office-ui-fabric-react-sp.git"
+  },
+  "author": "Kenny Duenke <kduenke@gmail.com> (https://www.linkedin.com/in/kduenke/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kduenke/office-ui-fabric-react-sp/issues"
+  },
+  "homepage": "https://github.com/kduenke/office-ui-fabric-react-sp#readme",
+  "dependencies": {
+    "office-ui-fabric-react": "5.35.1",
+    "react": "16.2.0",
+    "react-dom": "16.2.0"
+  }
+}
